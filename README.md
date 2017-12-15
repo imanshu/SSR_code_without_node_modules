@@ -1,0 +1,2 @@
+# SSR_code_without_node_modules
+stephen_server_side_rendering
